@@ -1,0 +1,30 @@
+.bgDark {
+    background-color: #12002b;
+    height: 719px;
+    position: relative;
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.errorContent {
+    box-sizing: border-box;
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    padding: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.errorContent h1 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
