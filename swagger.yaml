@@ -8,8 +8,8 @@ info:
     - add, modify or delete information on a transaction
 
     Some useful links:
-    - [Bank Argent repository](https://github.com/MichelD-dev/ArgentBank-Front)
-    - [User API definition for project](https://github.com/MichelD-dev/ArgentBank-Front/blob/main/swagger.yaml)
+    - [Bank Argent repository](https://github.com/Pbpx100/Argent-bank)
+    - [User API definition for project](https://github.com/Pbpx100/Argent-bank/blob/master/swagger.yaml)
   version: '1.0.0'
   termsOfService: 'http://swagger.io/terms/'
 host: localhost:3001
