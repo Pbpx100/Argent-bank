@@ -9,8 +9,6 @@ import { PersistGate } from 'redux-persist/integration/react'
 /**
  * Renders the React application to the root element in the HTML document.
  *
- * @author Michel DELAUNAY
- * @since v1.0.0
  *
  * @return {void}
  */
