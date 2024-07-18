@@ -78,6 +78,7 @@
 @media (min-width: 920px) {
     .features {
         flex-direction: row;
+        text-align: center;
     }
 }
 
