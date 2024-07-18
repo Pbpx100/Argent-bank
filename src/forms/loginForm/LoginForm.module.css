@@ -4,12 +4,12 @@ main {
 
 .bgDark {
     background-color: #12002b;
-    height: 719px;
+    height: 742px;
     position: relative;
     z-index: 999;
     display: flex;
     justify-content: center;
-    align-items: center;
+
 }
 
 .signInButton {
@@ -29,14 +29,22 @@ main {
     box-sizing: border-box;
     background-color: white;
     width: 300px;
-    height: 500px;
+    height: 400px;
     margin: 0 auto;
     margin-top: 3rem;
     padding: 2rem;
 }
 
+.signInContent h1 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
 .signInIcon {
-    font-size: 5rem;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
 }
 
 .inputRemember {
