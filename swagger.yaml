@@ -158,7 +158,7 @@ paths:
       tags:
         - Transactions Module
       summary: Transaction API
-      description: API to post a transaction
+      description: API to get the money trasnactions of each user. It shows the money transactions of the last month
       parameters:
         - in: path
           name: user_id
