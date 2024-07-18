@@ -14,11 +14,12 @@ nav {
 .mainNavItem {
     margin-right: 0.5rem;
 
-    a {
-        text-decoration: none;
+}
 
-        i {
-            margin-right: 0.5rem;
-        }
-    }
+.mainNavItem a {
+    text-decoration: none;
+}
+
+.mainNavItem i {
+    margin-right: 0.5rem;
 }
